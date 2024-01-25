@@ -1,0 +1,27 @@
+[
+    {
+        "question": "How old is Mount Olivet School?",
+        "choice1": "28 years",
+        "choice2": "26 years",
+        "choice3": "11 years",
+        "choice4": "15 years",
+        "answer": 1
+    },
+    {
+        "question": "What are our colors?",
+        "choice1": "blue and white",
+        "choice2": "green and cream",
+        "choice3": "green and white",
+        "choice4": "purple",
+        "answer": 1
+    },
+    {
+        "question": "Who is our head?",
+        "choice1": "Mad Lilia",
+        "choice2": "Mad Akosua Mensah",
+        "choice3": "Mad Lady Deloris",
+        "choice4": "Mad Rebecca Bunting",
+        "answer": 1
+    }
+
+]
